@@ -1,16 +1,13 @@
-{
-    "lastUpdate": "2025-11-21T12:00:00.000Z",
-    "version": "1.0.0",
-    "motd": "مرحباً بكم في منصة الأستاذ! تم تحديث المحتوى بنجاح.",
-    "content": [
-        {
-            "id": "demo_1",
-            "title": "مرحباً بك في التطبيق",
-            "description": "هذا محتوى تجريبي للتأكد من أن التطبيق يعمل بشكل صحيح.",
-            "category": "lesson",
-            "date": "2025-11-21",
-            "url": "https://www.google.com",
-            "type": "link"
-        }
-    ]
-}
+[
+  {
+    "id": "item_1763806309034_d12hdaqrv",
+    "createdAt": 1763806309034,
+    "version": "2.0.0",
+    "title": "فرض ",
+    "description": "",
+    "category": "assignment",
+    "link": "",
+    "fileType": "link",
+    "authorId": "admin"
+  }
+]
